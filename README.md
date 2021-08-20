@@ -1,4 +1,4 @@
 # zew-live-demo
 live demo!
 
-i lvoe typos
+i <3 typos
